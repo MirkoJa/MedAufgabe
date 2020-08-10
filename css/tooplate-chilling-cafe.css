@@ -10,7 +10,7 @@ https://www.tooplate.com/view/2118-chilling-cafe
     Text color:             #666666
     Text Dark color:        #333333
     Table Heading color:    #C4CDD6
-    Table Alternate color:  #e5e8ed 
+    Table Alternate color:  #e5e8ed
 */
 
 body {
@@ -49,7 +49,7 @@ body {
   margin-bottom: 35px;
   font-size: 2.1rem;
   font-weight: 400;
-  color: White;
+  color: black;
 }
 
 .tm-page-icon {
